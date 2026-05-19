@@ -2,7 +2,7 @@
 > Your AI-powered personal finance coach — understands not just what you spend, 
 but why.
 
-Most finance apps tell you where your money went. WealthMind tells you what your 
+Most finance apps tell you where your money went. This app tells you what your 
 spending says about you. Built on **Groq-hosted Llama 3** for low-latency LLM 
 inference, WealthMind combines transaction analysis with **behavioral AI** to 
 identify spending personalities, emotional patterns, and habit loops — then 
