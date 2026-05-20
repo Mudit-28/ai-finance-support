@@ -231,3 +231,34 @@ data/
 Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
+
+# ─── Python ───────────────────────────────────────
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+.mypy_cache/
+
+# ─── Node / Next.js ───────────────────────────────
+node_modules/
+.next/
+out/
+build/
+
+# ─── Environment Variables (NEVER commit these) ───
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+
+# ─── OS garbage ───────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Editor ───────────────────────────────────────
+.vscode/settings.json
+.idea/
